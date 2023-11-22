@@ -30,7 +30,7 @@ The Use of Excel tool for Data Cleaning, Analyzing and Modeling
 * Shipping mode Sales   
 
 ## Screenshots
-![Sale Store](https://github.com/Ikeoluwapo/Excel-Journey-/blob/main/SALES%20STORE.png?raw=true)
+![Sale Store](https://github.com/Ikeoluwapo/Sales-Store/blob/abbd8e843a19486e1386d4f19ddb699a298f0c60/SALES%20STORE.png?raw=true)
 
 #### Let's Connect
 
