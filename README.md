@@ -9,7 +9,7 @@ The Use of Excel tool for Data Cleaning, Analyzing and Modeling
 * Pivot Table
 
 ## Questions Answered
-* Sales Trend by Month and Catego
+* Sales Trend by Month and Category
 
 * Monthly Profit Vs Sales
   
